@@ -1,1 +1,1 @@
-worker: node discord-bot-activity-monitor-master.js 
+worker: node activity-monitor.js 
