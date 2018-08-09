@@ -1,1 +1,1 @@
-worker: node activity-monitor.js 
+worker: npm start
