@@ -56,3 +56,4 @@ function registerActivity(guild, member, guildData) {
 function canManageRoles(guildData) {
     return guildData.allowRoleAddition && guildData.activeRoleID && guildData.activeRoleID.length > 0;
 }
+client.login(process.env.BOT_TOKEN);
